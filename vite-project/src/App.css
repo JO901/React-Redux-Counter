@@ -1,7 +1,18 @@
+/* Just styling no relevance with either react or redux
+ignoring this file if you want to
+*/
+
 #root {
   background-color: yellowgreen;
   max-width: 1280px;
-  margin: 0 auto;
+  margin: auto;
   padding: 2rem;
   text-align: center;
+}
+
+button {
+  height: 50px;
+  width: 50px;
+  font-size: 20px;
+  font-weight: bold;
 }
